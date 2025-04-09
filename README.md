@@ -1,22 +1,33 @@
-# 🍕 Pizzaria UI Design
+# 🍕 Pizzaria - UI Design (Figma)
 
-Este é o design de interface para um sistema de pedidos de uma pizzaria, criado no Figma. O projeto simula telas de navegação, pedidos, seleção de pizzas, bebidas e pagamento.
+Este repositório contém o design de interface de uma aplicação de pedidos para uma pizzaria, desenvolvido no **Figma**. O layout inclui telas de login, cardápio com pizzas e bebidas, carrinho de compras, e finalização do pedido com pagamento.
 
-## 🔗 Protótipo
+## 📄 Arquivo do Projeto
 
-> Link para o projeto no Figma: [Figma - Pizzaria](https://www.figma.com/proto/f45XRiEqxUU8hjY6V8G6rq/Pizzaria--Community-?node-id=0-1&t=OrJBuNoBMg1eHI3Y-1)
+- [`Pizzaria (Community).pdf`](docs/Pizzaria%20(Community).pdf) – Exportação em PDF do protótipo feito no Figma, contendo todas as telas do app/sistema.
 
-## 📄 Arquivos
+## 🖼️ Telas disponíveis
 
-- `docs/Pizzaria (Community).pdf` - PDF exportado do Figma com todas as telas.
-- `assets/` - Imagens e ícones usados nas telas.
-- `README.md` - Este arquivo de descrição do projeto.
+- Tela de login/criação de conta
+- Catálogo de Pizzas (sabores, tamanhos, preços)
+- Seção de bebidas (refrigerantes com variações)
+- Carrinho de compras com visualização dos pedidos
+- Tela de pagamento com informações do cartão
+- Tela de pedidos finalizados
 
-## 💡 Próximos passos
+## 🔗 Link para o Figma
 
-- Implementar a interface com Flutter.
-- Integrar com backend para receber pedidos reais.
+
+> [Acessar no Figma](https://www.figma.com/design/f45XRiEqxUU8hjY6V8G6rq/Pizzaria--Community-?node-id=0-1&m=dev&t=OrJBuNoBMg1eHI3Y-1)
+
+## 📌 Tecnologias sugeridas (para futura implementação)
+
+- Flutter 
 
 ## ✨ Autor
 
-Feito com 💛 por [Seu Nome](https://github.com/RafaelJotta)
+Projeto feito com 💛 por **[Rafael Jotta](https://github.com/RafaelJotta)**  
+Design disponível para estudos e desenvolvimento.
+
+---
+
